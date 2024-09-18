@@ -1,7 +1,7 @@
 # Projets de cours STI2D - Option SIN
 
 
-Bienvenue sur mon dossier GitHub dédié à mes travaux réalisés lors de mes années en STI2D (Sciences et Technologies Industrielles du développement durable) avec option SIN. Ce répertoire contient une collection de projets, de devoirs, et d'exercices que j'ai entrepris tout au long de l'année scolaire
+Bienvenue sur mon GitHub dédié à mes travaux réalisés lors de mes années en STI2D. Ce répertoire contient une collection de projets, de devoirs, et d'exercices que j'ai entrepris tout au long de l'année scolaire
 
 
 ## Contenu
