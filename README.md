@@ -1,7 +1,7 @@
-# Projets de cours STI2D - Option SIN
+# Projets de cours STI2D - SIN
 
 
-Bienvenue sur mon GitHub dédié à mes travaux réalisés lors de mes années en STI2D. Ce répertoire contient une collection de projets, de devoirs, et d'exercices que j'ai entrepris tout au long de l'année scolaire
+Ce répertoire contient une collection de projets, de devoirs, et d'exercices que j'ai entrepris tout au long de l'année scolaire
 
 
 ## Contenu
